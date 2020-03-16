@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_pullup_icon_big.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/pullup_icon_big.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_scrollview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_scrollview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_h.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/h.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_refreshing.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/refreshing.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_m.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/m.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_pull_icon_big.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/pull_icon_big.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_refresh_failed.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/refresh_failed.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_l.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/l.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_listview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_listview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_j.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/j.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_refresh_head.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/refresh_head.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/anim_reverse_anim.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/anim/reverse_anim.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_load_failed.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/load_failed.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_load_succeed.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/load_succeed.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_i.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/i.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_refresh_succeed.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/refresh_succeed.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/anim_rotating.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/anim/rotating.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_loading.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/loading.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_textview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_textview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_expandablelistview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_expandablelistview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_list_item_layout.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xhdpi_k.jpg.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xhdpi/k.jpg"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_webview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_load_more.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/load_more.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_imageview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_imageview.xml"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/res/merged/debug/layout_activity_gridview.xml.flat",
+        "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/layout/activity_gridview.xml"
+    }
+]

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,4,14,13,12,5,10,9,8,7,11,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,107,588,542,498,152,397,351,302,255,447,201",
+                        "endColumns": "50,44,42,45,43,48,49,45,48,46,50,53",
+                        "endOffsets": "102,147,626,583,537,196,442,392,346,297,493,250"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "333,384,429,472,518,562,611,661,707,756,803,854",
+                        "endColumns": "50,44,42,45,43,48,49,45,48,46,50,53",
+                        "endOffsets": "379,424,467,513,557,606,656,702,751,798,849,903"
+                    }
+                },
+                {
+                    "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "219,277",
+                        "endColumns": "57,55",
+                        "endOffsets": "272,328"
+                    }
+                },
+                {
+                    "source": "/Users/yuqing/Desktop/workspace-youdao/PullToRefresh/app/src/main/res/values/color.xml",
+                    "from": {
+                        "startLines": "3,4,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "98,139,179,57",
+                        "endColumns": "39,38,44,39",
+                        "endOffsets": "133,173,219,92"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,95,134,179",
+                        "endColumns": "39,38,44,39",
+                        "endOffsets": "90,129,174,214"
+                    }
+                }
+            ]
+        }
+    ]
+}
